@@ -45,8 +45,7 @@ class PixelArtMaker:
             cls.__draw_data(picture, data)
 
             font = pygame.font.Font(
-                os.path.join(package_directory, 'fonts', 'calibri',
-                             'calibri.ttf'),
+                os.path.join(package_directory, 'fonts', 'calibri.ttf'),
                 16)
             text = "Something went wrong.\n" \
                    "Check if your code is correct and try again!"
