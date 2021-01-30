@@ -31,9 +31,12 @@ Installing VS Code on [Linux]()<br>
 
 ## __Author__
 
-**Elisabeth Strunk**<br>
-<img src="readme_media/GitHub-Mark-32px.png" width=22> https://github.com/ElisabethStrunk<br>
-<img src="readme_media/LI-In-Bug.png" width=22> https://www.linkedin.com/in/elisabeth-strunk/
+**Elisabeth Strunk**  
+<img src="readme_media/website.png" width=22> https://elisabethstrunk.me/  
+<img src="readme_media/github.png" width=22> https://github.com/ElisabethStrunk  
+<img src="readme_media/linkedin.png" width=22> https://www.linkedin.com/in/elisabeth-strunk/  
+<img src="readme_media/twitter.png" width=22> https://twitter.com/Elisabeth57runk  
+<img src="readme_media/stackoverflow.png" width=22> https://stackoverflow.com/users/10917711/elisabeth-strunk  
 
 ## __Acknowledgments__
 
